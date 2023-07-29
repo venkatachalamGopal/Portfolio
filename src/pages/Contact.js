@@ -20,7 +20,7 @@ function Contact() {
             <h4>Email</h4>
             <h5>venkatvenki3940@gmail.com</h5>
             <a
-              href='mailto:venkatvenki3940gmail.com'
+              href='mailto:venkatvenki3940@gmail.com'
               target='_blank'
               rel='noreferrer'>
               Send a mail
