@@ -23,13 +23,6 @@ function Footer() {
       <p>
         {' '}
         &copy; {new Date().getFullYear()}{' '}
-        {/* <a
-          href='https://kavyakavi.netlify.app/'
-          style={{ textDecoration: 'none', color: 'inherit' }}
-          target='_blank'
-          rel='noreferrer'>
-          Kavya Karuppusamy
-        </a> */}
         venkatachalam
       </p>
     </div>
